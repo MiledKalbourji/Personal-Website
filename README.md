@@ -12,7 +12,7 @@ Feel free to reach out to me through the provided contact information.
 
 Check out my projects and work samples here.
 
-- [Miled Kalbourji's Resume](https://drive.google.com/file/d/1HsGAdYrYS-TqMTcnHxCh2Q85t3Tt6q0d/view?usp=sharing)
+- [Miled Kalbourji's Resume](https://drive.google.com/file/d/19h7cyGV5JM3SKDGMhmxJ2CvS4z8a17a1/view?usp=sharing)
 - [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)
 - [Simple Calculator Code](https://github.com/MiledKalbourji/Simple-Calucator)
 - [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
