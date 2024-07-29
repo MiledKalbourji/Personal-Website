@@ -18,7 +18,7 @@ Check out my projects and work samples here.
 - [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
 - [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)
 
-<img src="https://drive.google.com/uc?export=view&id=1XdTgFvRHQaJ_x2Mv31dg1c_HzsBnltXK" alt="Miled Kalbourji" style="display:block; margin:auto; width:300px; height:auto;">
+<img src="https://raw.githubusercontent.com/miledkalbourji/Personal-Website/main/mk.jfif" alt="My Image" style="max-width: 200px; height: auto;">
 
 ## Videos
 
