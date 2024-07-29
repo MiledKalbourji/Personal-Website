@@ -1,4 +1,4 @@
-# Welcome! Hi My name is Miled Kalbourji!
+# Welcome! Hi, My name is Miled Kalbourji!
 
 ## Contact
 
@@ -12,13 +12,19 @@ Feel free to reach out to me through the provided contact information.
 
 Check out my projects and work samples here.
 
-- [Miled Kalbourji's Resume](https://drive.google.com/file/d/19h7cyGV5JM3SKDGMhmxJ2CvS4z8a17a1/view?usp=sharing)
-- [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)
-- [Simple Calculator Code](https://github.com/MiledKalbourji/Simple-Calucator)
-- [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
-- [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1;">
+        - [Miled Kalbourji's Resume](https://drive.google.com/file/d/19h7cyGV5JM3SKDGMhmxJ2CvS4z8a17a1/view?usp=sharing)  
+        - [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)  
+        - [Simple Calculator Code](https://github.com/MiledKalbourji/Simple-Calucator)  
+        - [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)  
+        - [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)  
+    </div>
 
-<img src="https://drive.google.com/uc?export=view&id=1XdTgFvRHQaJ_x2Mv31dg1c_HzsBnltXK" alt="Miled Kalbourji" style="display:block; margin:auto; width:300px; height:auto;">
+    <div style="flex: 0 0 auto; margin-left: 20px;">
+        <img src="https://raw.githubusercontent.com/miledkalbourji/Personal-Website/main/mk.jfif" alt="My Image" style="max-width: 200px; height: auto;">
+    </div>
+</div>
 
 ## Videos
 
@@ -43,8 +49,7 @@ One sentence that would describe me is that I am a family man, and I love riding
     <a href="https://github.com/MiledKalbourji" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:60px;height:60px;">
     </a>
-  <a href="https://www.youtube.com/@MiledKalbourji" target="_blank">
+    <a href="https://www.youtube.com/@MiledKalbourji" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width:60px;height:60px;">
     </a>
 </footer>
-
