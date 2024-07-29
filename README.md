@@ -36,12 +36,12 @@ One sentence that would describe me is that I am a family man, and I love riding
 <footer>
     <p>Connect with me:</p>
     <a href="https://www.linkedin.com/in/miled-kalbourji-25893b1a1/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width:30px;height:30px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width:60px;height:60px;">
     </a>
     <a href="https://github.com/MiledKalbourji" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:30px;height:30px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:60px;height:60px;">
     </a>
   <a href="https://www.youtube.com/@MiledKalbourji" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width:30px;height:30px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width:60px;height:60px;">
     </a>
 </footer>
