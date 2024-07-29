@@ -1,4 +1,37 @@
-# Welcome! Hi My name is Miled Kalbourji!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <style>
+        /* Basic styles for layout */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        .portfolio {
+            flex: 1; /* Takes remaining space */
+        }
+        .image-container {
+            flex: 0 0 auto; /* Fixed size */
+            margin-left: 20px; /* Space between portfolio and image */
+        }
+        img {
+            max-width: 200px; /* Adjust as needed */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+
+# Welcome! Hi, My name is Miled Kalbourji!
 
 ## Contact
 
@@ -8,18 +41,23 @@ Feel free to reach out to me through the provided contact information.
 - Phone Number: +1-401-548-5399
 - [Miled Kalbourji's LinkedIn](https://www.linkedin.com/in/miled-kalbourji-25893b1a1/)
 
-## Portfolio
+<div class="container">
+    <div class="portfolio">
+        ## Portfolio
 
-Check out my projects and work samples here.
+        Check out my projects and work samples here.
 
-- [Miled Kalbourji's Resume](https://drive.google.com/file/d/19h7cyGV5JM3SKDGMhmxJ2CvS4z8a17a1/view?usp=sharing)
-- [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)
-- [Simple Calculator Code](https://github.com/MiledKalbourji/Simple-Calucator)
-- [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
-- [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)
+        - [Miled Kalbourji's Resume](https://drive.google.com/file/d/19h7cyGV5JM3SKDGMhmxJ2CvS4z8a17a1/view?usp=sharing)
+        - [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)
+        - [Simple Calculator Code](https://github.com/MiledKalbourji/Simple-Calucator)
+        - [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
+        - [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)
+    </div>
 
-![My Image](https://github.com/miledkalbourji/Personal-Website/raw/main/mk.jfif)
-
+    <div class="image-container">
+        ![My Image](https://raw.githubusercontent.com/miledkalbourji/Personal-Website/main/mk.jfif)
+    </div>
+</div>
 
 ## Videos
 
@@ -44,7 +82,10 @@ One sentence that would describe me is that I am a family man, and I love riding
     <a href="https://github.com/MiledKalbourji" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:60px;height:60px;">
     </a>
-  <a href="https://www.youtube.com/@MiledKalbourji" target="_blank">
+    <a href="https://www.youtube.com/@MiledKalbourji" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width:60px;height:60px;">
     </a>
 </footer>
+
+</body>
+</html>
