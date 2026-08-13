@@ -13,7 +13,7 @@ Feel free to reach out to me through the provided contact information.
 Check out my projects and work samples here.
 
 - [Miled Kalbourji's Resume](https://drive.google.com/file/d/1gyUei6XHxvE1NGeZ5RfJqQf__TDu8WZs/view?usp=sharing)
-- [Rock-Paper-Scissor Code](https://github.com/MiledKalbourji/Rock-Paper-Scissor-Game)
+- [Published Library Project (Addams Library)](https://library.ric.edu/headcount)
 - [Front-End Application Code](https://github.com/MiledKalbourji/FrontEnd)
 - [To-Do List Code](https://github.com/MiledKalbourji/To-do-List)
 
